@@ -1,15 +1,16 @@
 body{
     text-align: center;
     background-color: #121317;
+    color:#ffffff;
 
 }
-#Id
+#jogo
 <!---
 PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
 --->
 
 {
-    width: 100%;
+    width: 50%;
   <!---
 quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
 --->
@@ -17,15 +18,10 @@ quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura d
 
 h1{
   height: 150px;
-  <!---
-define a altura do título principal
---->
-    color: #ffffff;
+
+  color: #ffffff;
         
-  <!---
-define a cor do título principal
---->
-  background-color:  #f7f7f5;
+  background-color:  #f70707;
 
  <!---
 define a cor de fundo do título principal
@@ -39,7 +35,5 @@ define a altura do título principal
 }
 h2{
     Color:   #D02C0F
- <!---
-define a cor do segundo título
---->
+ 
 }
